@@ -1,11 +1,10 @@
 ### Hi there 👋
-
+<!--
 - 🔭 I’m currently working on something awesome
 - 🌱 I’m currently learning REST API
 - 😄 Pronouns: SHE/Her
-- ⚡ Fun fact: I don't like coding 
+- ⚡ 70% Introverts
 
-<!--
 **fikka-aps/fikka-aps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
